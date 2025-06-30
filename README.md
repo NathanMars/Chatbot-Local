@@ -15,11 +15,11 @@ Um Chatbot pessoal rodando localmente num servidor Ollama usando uma interface c
 Se quiser testar outros modelos, basta:
 1. Alterar o conteúdo de model no lrecho de App.py
 
-      `stream = ollama.chat(\
-              model='llama3.2-vision',\
-              messages=model_messages,\
-              stream=True,\
-          )`
+      `stream = ollama.chat(`\
+              `model='llama3.2-vision',`\
+              `messages=model_messages,`\
+              `stream=True,`\
+          `)`
 
 2. Rodar um dos comandos da lista do [repositório oficial do Ollama](https://github.com/ollama/ollama)
 **Observação:** Se for usar outro modelo, use `pull` ao invés do `run` que o readme do Ollama sugere, pra evitar rodar o modelo duas vezes ao baixar ele.
