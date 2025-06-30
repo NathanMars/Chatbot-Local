@@ -4,9 +4,9 @@ Um Chatbot pessoal rodando localmente num servidor Ollama usando uma interface c
 O Chatbot é capaz de interpretar mensagens de texto e audio, ler documentos txt e pdf e utiliza-los para contexto, assim como reconhecer imagens (a depender do modelo utilizado). As conversas são salvas e podem ser recuperadas mesmo que o servidor seja reiniciado. O chatbot implementa features de treinamento de maquina manual através de flagging, os dados deste treinamento são salvos no diretório ".gradio".\
 \
 O Chatbot roda localmente na máquina do usuário e não possuí limite de uso. Especificações de hardware podem ser encontradas no [repositório oficial do Ollama](https://github.com/ollama/ollama). 
-\
+
 ---
-\
+
 ## Instruções  
 - Instale o Ollama [da fonte oficial](https://ollama.com/download)  
 - No terminal, na pasta raiz do projeto:\
