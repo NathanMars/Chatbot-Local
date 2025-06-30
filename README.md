@@ -17,7 +17,7 @@ O Chatbot roda localmente na máquina do usuário e não possuí limite de uso. 
 - Rodar aplicação através de App.py
 \
 Se quiser testar outros modelos, basta:
-1. Alterar o conteúdo de model no lrecho de App.py
+1. Alterar o conteúdo de model no trecho de App.py
 
       `stream = ollama.chat(`\
               `model='llama3.2-vision',`\
