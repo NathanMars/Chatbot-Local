@@ -28,7 +28,6 @@ Se quiser testar outros modelos, basta:
 2. Rodar um dos comandos da lista do [repositório oficial do Ollama](https://github.com/ollama/ollama)\
 \
 **Observação:** Se for usar outro modelo, use `pull` ao invés do `run` sugerido no Readme do Ollama, pra evitar que o modelo rode duas vezes ao baixar ele e executar App.py.
-\
 ---
 
 **Grupo:** Nathan Marques Silva, Bruna Cristina Mafra, Denilson dos Santos Proença Pereira, Igor Fernando Souza e Silva, Guilherme Lara Vieira Carvalho
