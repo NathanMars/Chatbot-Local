@@ -1,0 +1,4 @@
+gradio
+ollama
+PyMuPDF
+faster-whisper
