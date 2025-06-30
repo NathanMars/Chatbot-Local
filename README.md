@@ -1,5 +1,5 @@
 # Chatbot-Local
-Um Chatbot pessoal rodando localmente num servidor Ollama usando uma interface customizada do Gradio, desenolvido para um projeto acadêmico.\
+Um Chatbot pessoal rodando localmente num servidor Ollama usando uma interface customizada do Gradio, desenvolvido para um projeto acadêmico.\
 \
 O Chatbot é capaz de interpretar mensagens de texto e audio, ler documentos txt e pdf e utiliza-los para contexto, assim como reconhecer imagens (a depender do modelo utilizado). As conversas são salvas e podem ser recuperadas mesmo que o servidor seja reiniciado. O chatbot implementa features de treinamento de maquina manual através de flagging, os dados deste treinamento são salvos no diretório ".gradio".\
 \
